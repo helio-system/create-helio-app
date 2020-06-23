@@ -1,10 +1,10 @@
 {
   "name": "create-helio-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": "index.js",
-  "repository": "git@github.com:mathiscode/create-helio-app.git",
-  "author": "J.R. Mathis",
+  "repository": "git@github.com:helio-system/create-helio-app.git",
+  "author": "J.R. Mathis <https://github.com/mathiscode>",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
