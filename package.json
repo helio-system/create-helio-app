@@ -1,0 +1,8 @@
+{
+  "name": "create-helio-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mathiscode/create-helio-app.git",
+  "author": "J.R. Mathis",
+  "license": "MIT"
+}
