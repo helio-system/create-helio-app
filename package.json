@@ -2,7 +2,15 @@
   "name": "create-helio-app",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": "index.js",
   "repository": "git@github.com:mathiscode/create-helio-app.git",
   "author": "J.R. Mathis",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "enquirer": "^2.3.5",
+    "figlet": "^1.4.0",
+    "fs-extra": "^9.0.1",
+    "slug": "^3.3.0"
+  }
 }
