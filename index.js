@@ -26,11 +26,7 @@ const init = async () => {
       if (value === '') return chalk.red('You must give your app a name')
       return true
     }},
-    { type: 'input', name: 'projectDescription', message: 'Enter a short description of your app:' },
-    { type: 'select', name: 'frontend', message: 'Do you need a frontend?', choices: [
-      { message: 'No, skip the frontend.', value: 'no' },
-      { message: 'Create-React-App', value: 'create-react-app' }
-    ]}
+    { type: 'input', name: 'projectDescription', message: 'Enter a short description of your app:' }
   ])
 
   const safeProjectName = slug(responses.projectName)
