@@ -1,2 +1,3 @@
 # create-helio-app
-Generator for creating Helio Apps
+
+Generator for creating [Helio](https://github.com/helio-system/server) Apps
