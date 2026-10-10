@@ -9,7 +9,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "enquirer": "^2.3.5",
-    "figlet": "^1.4.0",
+    "figlet": "^1.11.3",
     "fs-extra": "^9.0.1",
     "slug": "^3.3.0"
   }
